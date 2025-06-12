@@ -52,9 +52,7 @@ A simple and responsive Weather App that allows users to get current weather inf
    cd weather-app
    ```
    Get an API key from https://openweathermap.org/api
-   Insert your API key in weather.js:
-   ```javascript
-   const API_KEY = "217b50ae77b5c5d77af3e09e0da2e448";
+  
    ```
 
    Open index.html in your browser to run the app.
